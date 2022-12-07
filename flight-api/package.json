@@ -13,7 +13,7 @@
   "dependencies": {
     "body-parser": "^1.18.0",
     "compromise": "^10.7.2",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "moment": "^2.18.1",
     "mongoose": "^4.11.10"
   }
